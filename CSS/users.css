@@ -1,0 +1,26 @@
+.liste, .liste2{
+    background-color: cadetblue;
+    width: 900px;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+th, td{
+    border: 2px solid black;
+    width: 100px;
+    height: 5Opx;
+    font-size: 20px;
+}
